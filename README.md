@@ -1,2 +1,3 @@
 # odin-recipes
-1st of many
+This website will have a main page linked to a couple recipes.
+This project will use HTML
